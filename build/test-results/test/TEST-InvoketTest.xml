@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoketTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-20T17:29:54" hostname="穿山甲网络科技" time="0.499">
+  <properties/>
+  <testcase name="Test" classname="InvoketTest" time="0.499"/>
+  <system-out><![CDATA[01:29:54 INFO              Arm:176  | Test worker ******************************************************************
+01:29:54 INFO              Arm:181  | Test worker 任务ID:Test.zip 耗时->0.42秒
+01:29:54 INFO              Arm:182  | Test worker ******************************************************************
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (armadillo.Application).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

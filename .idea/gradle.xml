@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Plugin" />
+            <option value="$PROJECT_DIR$/Plugin/AntiSigner" />
+            <option value="$PROJECT_DIR$/Plugin/Check" />
+            <option value="$PROJECT_DIR$/Plugin/ControlFlow" />
+            <option value="$PROJECT_DIR$/Plugin/Dex2C" />
+            <option value="$PROJECT_DIR$/Plugin/Hook" />
+            <option value="$PROJECT_DIR$/Plugin/InsertDebug" />
+            <option value="$PROJECT_DIR$/Plugin/JiaGu" />
+            <option value="$PROJECT_DIR$/Plugin/MethodEncryption" />
+            <option value="$PROJECT_DIR$/Plugin/MethodSeparate" />
+            <option value="$PROJECT_DIR$/Plugin/RemoveDebug" />
+            <option value="$PROJECT_DIR$/Plugin/ResourceIdEncryption" />
+            <option value="$PROJECT_DIR$/Plugin/ResourcesEncryption" />
+            <option value="$PROJECT_DIR$/Plugin/SE" />
+            <option value="$PROJECT_DIR$/Plugin/StringEncryption" />
+            <option value="$PROJECT_DIR$/Plugin/VerifyDialog" />
+            <option value="$PROJECT_DIR$/Plugin/VmpProtect" />
+            <option value="$PROJECT_DIR$/arsc" />
+            <option value="$PROJECT_DIR$/base" />
+            <option value="$PROJECT_DIR$/dex2c" />
+            <option value="$PROJECT_DIR$/dex2jar" />
+            <option value="$PROJECT_DIR$/dexlib2" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+    <option name="offlineMode" value="true" />
+  </component>
+</project>

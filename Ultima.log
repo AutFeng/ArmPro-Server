@@ -1,0 +1,33 @@
+23:43:10 INFO      Application:69   | main Armadillo -> 1.2.9
+23:43:10 INFO      Application:70   | main Copyright @ 2020 Armadillo Systems Incorporated. All rights reserved.
+23:43:10 INFO      Application:85   | main Server Bind Port:(10000 - 10020)
+23:43:10 INFO      Application:86   | main IO Handler Thread Pool:125
+23:43:10 INFO      Application:87   | main Task Thread Pool:0
+23:43:10 INFO      Application:88   | main Youpk Bind Port:15000
+23:43:10 INFO      Application:89   | main Xposed Bind Port:16000
+23:43:10 INFO      Application:665  | Server Pool:0 Xposed Shell Start Success
+23:43:10 INFO      Application:121  | Server Pool:13 Bind Server >> 10011
+23:43:10 INFO      Application:121  | Server Pool:12 Bind Server >> 10010
+23:43:10 INFO      Application:121  | Server Pool:11 Bind Server >> 10009
+23:43:10 INFO      Application:121  | Server Pool:10 Bind Server >> 10008
+23:43:10 INFO      Application:121  | Server Pool:9 Bind Server >> 10007
+23:43:10 INFO      Application:121  | Server Pool:8 Bind Server >> 10006
+23:43:10 INFO      Application:121  | Server Pool:7 Bind Server >> 10005
+23:43:10 INFO      Application:121  | Server Pool:6 Bind Server >> 10004
+23:43:10 INFO      Application:121  | Server Pool:5 Bind Server >> 10003
+23:43:10 INFO      Application:121  | Server Pool:4 Bind Server >> 10002
+23:43:10 INFO      Application:121  | Server Pool:3 Bind Server >> 10001
+23:43:10 INFO      Application:121  | Server Pool:2 Bind Server >> 10000
+23:43:10 INFO      Application:628  | Server Pool:1 Shell Start Success
+23:43:10 INFO      Application:121  | Server Pool:23 Bind Server >> 8000
+23:43:10 INFO      Application:616  | main 工程数据目录:C:\arm 获取目录状态:C:\arm
+23:43:10 INFO      Application:121  | Server Pool:22 Bind Server >> 10020
+23:43:10 INFO      Application:121  | Server Pool:21 Bind Server >> 10019
+23:43:10 INFO      Application:121  | Server Pool:20 Bind Server >> 10018
+23:43:10 INFO      Application:121  | Server Pool:19 Bind Server >> 10017
+23:43:10 INFO      Application:121  | Server Pool:18 Bind Server >> 10016
+23:43:10 INFO      Application:121  | Server Pool:17 Bind Server >> 10015
+23:43:10 INFO      Application:121  | Server Pool:16 Bind Server >> 10014
+23:43:10 INFO      Application:121  | Server Pool:15 Bind Server >> 10013
+23:43:10 INFO      Application:121  | Server Pool:14 Bind Server >> 10012
+23:43:10 INFO      Application:100  | main Armadillo Start Success

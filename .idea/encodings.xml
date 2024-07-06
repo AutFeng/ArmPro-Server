@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/dex2jar/src/main/java/com/googlecode/d2j/dex/Dex2IrAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex2jar/src/main/java/com/googlecode/d2j/reader/DexFileReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex2jar/src/main/java/com/googlecode/d2j/visitors/DexAnnotationAble.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/Application.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/Arm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/action/TaskAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/helper/SocketHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/model/tree/TreeNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/shell/ShellHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/dex2c/BasicDex2c.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/debug/InsertDebug.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/flow/ControlFlow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/references/CallMethod2Native.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/references/CallMethodEncryption.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/resources/AssetsAccessEncryption.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/resources/XmlAccessEncryption.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/obfuscators/separate/CallMethodSeparate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/FullResEncrypt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/HookSignerPro.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/HookSignerProV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/Method2Native.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/PopDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/other/SignerV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/utils/AssetsUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/utils/FullAssetsUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/utils/NumbersUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/utils/StringUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/transformers/utils/SysMethod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/RSAUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/RedisLock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/RedisUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/SysConfigUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/axml/AutoXml/xml/decode/AXmlResourceParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/armadillo/utils/axml/EditXml/decode/BNSNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/smali/loadRes.smali" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RedisTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ResTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SmaliTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/armadillo/call/test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rc4/RC4Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rsa/signtest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/xml/mmm.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

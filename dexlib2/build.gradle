@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'armardillo_server'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    compile group: 'com.google.guava', name: 'guava', version: '27.1-android'
+    // https://mvnrepository.com/artifact/com.google.code.findbugs/jsr305
+    compile group: 'com.google.code.findbugs', name: 'jsr305', version: '1.3.9'
+    // https://mvnrepository.com/artifact/org.smali/smali
+    compile (group: 'org.smali', name: 'smali', version: '2.4.0'){
+        exclude(module: 'dexlib2')
+    }
+}
